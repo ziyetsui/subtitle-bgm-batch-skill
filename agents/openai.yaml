@@ -1,0 +1,4 @@
+interface:
+  display_name: "Subtitle + BGM Batch"
+  short_description: "Batch add Chinese subtitles and background music to videos."
+  default_prompt: "Add subtitles and background music to these videos using the bundled workflow."
